@@ -1,3 +1,15 @@
+# pokemon_angular
+
+## Descrição
+
+Esse projeto é a criação de uma aplicação simples utilizando angular, para consumir a ***API*** [POKEAPI](https://pokeapi.co/).
+
+Esse projeto conta com o uso de **componentes**, **services**, **environments** e uma camada de **models** que tem a função de abstrair os dados da ***POKEAPI***, pegando apenas os valores utilizados no **componet**
+
+***LINK*** para a documentação do [ANGULAR CLI](https://angular.io/docs)
+
+Abaixo mais informações sobre o angular e a implementação do projeto (en inglês)
+
 # AngularServices
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
@@ -25,3 +37,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
